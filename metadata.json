@@ -1,0 +1,6 @@
+{
+  "name": "ProcessDaemon - Background App & Service Manager",
+  "description": "Inspect, monitor, and toggle background processes, app workers, system daemons, and resource throttles in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
